@@ -3,7 +3,6 @@
 </script>
 
 <template>
-<div>шапка сайта</div>
  <header>
    <nav>
      <ul>
